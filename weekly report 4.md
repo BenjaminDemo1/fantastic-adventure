@@ -4,15 +4,13 @@
 
 |                 Subject                  | Start Date |  Due Date  | Span | Completion Date |   Status   |
 |:----------------------------------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
-| Face recognition system process planning | 2025-04-２２ | 2025-06-05 |  2   |   2025-06-05    | Completed  |     |
-|               Git Learning               | 2025-04-５５ | 2025-06-13 |  ９  |                 | Processing |     |
-
+| Face recognition system process planning | 2025-06-04 | 2025-06-05 |  2   |   2025-06-05    | Completed  |     |
 
 ## Schedules ( Next week )
 
 |   Subject    | Start Date |  Due Date  | Span | Completion Date |   Status   | 
 |:------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
-| Git Learning | 2025-06-03 | 2025-06-13 |  ９0  |                 | Processing |
+| Git Learning | 2025-06-03 | 2025-06-13 |  ９  |                 | Processing |
 
 
 ## Subject
