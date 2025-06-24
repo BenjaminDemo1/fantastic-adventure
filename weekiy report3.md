@@ -2,14 +2,14 @@
 
 ## Schedules ( This week )
 
-|                 Subject                  | Start Date |  Due Date  | Span | Completion Date |   Status   |
+|       2          Subject                  | Start Date |  Due Date  | Span | Completion Date |   Status   |
 |:----------------------------------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
 | Face recognition system process planning | 2025-04-２２ | 2025-06-05 |  2   |   2025-06-05    | Completed  |     |
-|               Git Learning               | 2025-04-５５ | 2025-06-13 |  ９  |                 | Processing |     |
+|      3         Git Learning               | 2025-04-５５ | 2025-06-13 |  ９  |                 | Processing |     |
 
 
 ## Schedules ( Next week )
-
+4
 |   Subject    | Start Date |  Due Date  | Span | Completion Date |   Status   | 
 |:------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
 | Git Learning | 2025-06-03 | 2025-06-13 |  ９01  |                 | Processing |
