@@ -10,7 +10,7 @@
 
 |   Subject    | Start Date |  Due Date  | Span | Completion Date |   Status   | 
 |:------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
-| Git Learning | 2025-06-03 | 2025-06-103 |  ９  |                 | Processing |
+| Git Learning | 2025-06-03 | 2025-06-103 |  ９  |                 | Processing |123
 
 
 ## Subject
