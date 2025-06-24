@@ -10,8 +10,8 @@
 
 |   Subject    | Start Date |  Due Date  | Span | Completion Date |   Status   | 
 |:------------:|:----------:|:----------:|:----:|:---------------:|:----------:|
-| Git Learning | 2025-06-03 | 2025-06-13 |  ９  |                 | Processing |
-
+| Git Learning | 2025-06-03 | 2025-06-13 |  ９  |                 | Processing |1
+123
 
 ## Subject
 ### 1. [Git](https://hackmd.io/@dRJLCJLST-SP2uU10JIAJQ/HyfLApyXll)
